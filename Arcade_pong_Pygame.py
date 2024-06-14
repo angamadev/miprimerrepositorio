@@ -1,3 +1,7 @@
+# Este archivo lo mandop a Bienvenido para comprobar que hago biem un commit en una rama nueva
+
+
+
 # Juego de Pong con Pygame
 
 # importar modulos y los iniciamos
